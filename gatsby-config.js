@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/pprf.github.io",
   siteMetadata: {
     title: `Esteban Hernandez`,
     description: `Personal profile from Pablo Esteban Hernandez`,
@@ -31,4 +32,9 @@ module.exports = {
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
   ],
+  pathPrefix: "/pprf.github.io",
+
+  
+
+
 }
