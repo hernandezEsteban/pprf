@@ -1,6 +1,6 @@
 const ENTER_KEY = 13;
 const fileSystem = {
-  'README.md': `Welcome to the Macintosh 128K terminal!
+  'README.md': `my blog is on the stove. If you want to know the progress you can check  https://github.com/hernandezEsteban/pprf
 Supported commands are:
   - ls: list directory contents
   - cat: concatenate and print files
